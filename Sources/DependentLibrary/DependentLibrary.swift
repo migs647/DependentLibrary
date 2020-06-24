@@ -10,4 +10,8 @@ public class DependentLibrary {
         configuration.recordScreenViews = true
         Analytics.setup(with: configuration)
     }
+    
+    public override init() {
+        print("public")
+    }
 }
