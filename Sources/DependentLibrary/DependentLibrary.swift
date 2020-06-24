@@ -11,7 +11,7 @@ public class DependentLibrary {
         Analytics.setup(with: configuration)
     }
     
-    public override init() {
+    public init() {
         print("public")
     }
 }
