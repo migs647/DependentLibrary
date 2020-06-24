@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Analytics",
+        "repositoryURL": "git@github.com:migs647/analytics-ios.git",
+        "state": {
+          "branch": "trash2",
+          "revision": "1abd7a1c467eb40f02205ddc6429f525de7b4427",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
